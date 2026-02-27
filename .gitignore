@@ -1,0 +1,30 @@
+# Зависимости
+node_modules/
+package-lock.json
+
+# Виртуальное окружение Python
+venv/
+__pycache__/
+*.pyc
+
+# Файлы окружения
+.env
+.env.local
+
+# Логи
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Сборки
+dist/
+build/
+*.db
+
+# Операционные системы
+.DS_Store
+Thumbs.db
